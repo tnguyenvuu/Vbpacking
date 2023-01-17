@@ -76,10 +76,12 @@ html {
   font-size: 1.8rem;
   font-weight: bold;
   color: #f25922;
+  background-color:rgba(255, 255, 255, 0.7);
 }
 .slider .content {
   font-size: 1.6rem;
   color: #283d59;
+  background-color:rgba(255, 255, 255, 0.7);
 }
 /* Container */
 /* About */
